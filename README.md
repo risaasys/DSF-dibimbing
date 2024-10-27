@@ -2,7 +2,7 @@
 ## DSF dibimbing project Titanic Supervised
 ### Portfolio Data Science
 
-Pada project Survival Analysis of Titanic saya menggunakan kaggle untuk memperoleh dataset dan menggunakannya untuk melakukan analisis dan klasifikasi model, saya menggunakan dataset pada link ini: https://www.kaggle.com/code/risasulistiawati/dsf-dibimbing-risa-sulistiawati
+Pada project Survival Analysis of Titanic saya menggunakan kaggle untuk memperoleh dataset dan menggunakannya untuk melakukan analisis dan klasifikasi model, saya mengerjakan project pada link ini: https://www.kaggle.com/code/risasulistiawati/dsf-dibimbing-risa-sulistiawati
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered "unsinkable" RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren't enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others (W Cukierski, 2012). In this project, go through how I applied several classification models on this dataset and find out which gives the best accuracy.
 
